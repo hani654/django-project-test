@@ -1,0 +1,7 @@
+beautifulsoup4 4.12.2
+bs4            0.0.1
+dnspython      2.4.2
+pip            20.2.1
+pymongo        4.4.1
+setuptools     49.2.1
+soupsieve      2.4.1
